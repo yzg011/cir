@@ -1,4 +1,4 @@
-# 主页规则
+# 主页规则（保留原有所有主题，不动）
 post_page_rules:
   {
     anzhiyu:
@@ -179,7 +179,7 @@ post_page_rules:
       },
   }
 
-# 友链页规则
+# 友链页规则：新增 json 规则适配你的接口 https://blog.z2m.store/friends/
 link_page_rules:
   {
     butterfly:
@@ -294,5 +294,13 @@ link_page_rules:
         author: [{ selector: ".cf-friends-name", attr: "text" }],
         link: [{ selector: "a.cf-friends-link", attr: "href" }],
         avatar: [{ selector: ".cf-friends-avatar", attr: "src" }],
+      },
+    # ========== 新增：你的JSON接口专用规则 json_api ==========
+    json_api:
+      {
+        # json路径，根据你接口返回结构配置
+        author: [{ jsonpath: "$[*].name" }],
+        link: [{ jsonpath: "$[*].url" }],
+        avatar: [{ jsonpath: "$[*].avatar" }],
       },
   }
