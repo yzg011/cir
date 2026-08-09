@@ -202,7 +202,35 @@ link_page_rules:
             { selector: ".flink-list a img", attr: "src" },
             { selector: "flink .site-card .info img", attr: "src" },
           ],
+          
       },
+
+    tblog_custom:
+      {
+        # 友链名称
+        author:
+          [
+            { selector: ".card-link .info .title", attr: "text" },
+            { selector: ".friend-card-name", attr: "text" },
+          ],
+        # 友链主页链接
+        link:
+          [
+            { selector: ".card-link", attr: "href" },
+            { selector: ".friend-card-link", attr: "href" },
+          ],
+        # 头像地址
+        avatar:
+          [
+            { selector: ".card-link img", attr: "src" },
+            { selector: ".friend-card-avatar__img", attr: "src" },
+            { selector: ".friend-card-avatar__img", attr: "data-src" },
+          ],
+      },
+
+
+
+      
     fluid:
       {
         author: [{ selector: ".card .link-title", attr: "text" }],
