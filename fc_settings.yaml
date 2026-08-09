@@ -1,4 +1,4 @@
-# 友链页地址
+b# 友链页地址
 # 参数说明：
 # link：必填，在这里填写你的友链页面地址
 # theme：必填，友链页的获取策略。需要指定该页面的主题，可选参数如下（这些是目前支持的主题）：
@@ -15,7 +15,7 @@
 #   - stellar：stellar主题
 # 支持配置多个友链页面并指定不同主题策略，每个用{}分隔，它们会被同时爬取，数据保存在一起。
 LINK: [
-      { link: "https://vlog.z2m.store/friends/", theme: "firefly" },  # 团子和蛋糕的博客友链页
+      { link: "https://blog1.z2m.store/friends/", theme: "firefly" },  # 团子和蛋糕的博客友链页
 #     { link: "https://noionion.top/link/", theme: "butterfly" }, # 友链页地址2
     # { link: "https://immmmm.com/about/", theme: "common1" }, # 友链页地址3
 #     ...
@@ -30,7 +30,7 @@ LINK: [
 #       avatar：必填，头像地址
 #       suffix：选填，自定义订阅后缀，主要针对不规范的网站订阅后缀，见示例2
 SETTINGS_FRIENDS_LINKS: {
-    enable: true,
+    enable: false,
     json_api_or_path: "https://lk.z2m.store/link.json",
     list: [
         # 示例1：
