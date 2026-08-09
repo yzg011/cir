@@ -205,28 +205,6 @@ link_page_rules:
           
       },
 
-    tblog_custom:
-      {
-        # 友链名称
-        author:
-          [
-            { selector: ".card-link .info .title", attr: "text" },
-            { selector: ".friend-card-name", attr: "text" },
-          ],
-        # 友链主页链接
-        link:
-          [
-            { selector: ".card-link", attr: "href" },
-            { selector: ".friend-card-link", attr: "href" },
-          ],
-        # 头像地址
-        avatar:
-          [
-            { selector: ".card-link img", attr: "src" },
-            { selector: ".friend-card-avatar__img", attr: "src" },
-            { selector: ".friend-card-avatar__img", attr: "data-src" },
-          ],
-      },
 
 
 
@@ -323,12 +301,5 @@ link_page_rules:
         link: [{ selector: "a.cf-friends-link", attr: "href" }],
         avatar: [{ selector: ".cf-friends-avatar", attr: "src" }],
       },
-    # ========== 新增：你的JSON接口专用规则 json_api ==========
-    json_api:
-      {
-        # json路径，根据你接口返回结构配置
-        author: [{ jsonpath: "$[*].name" }],
-        link: [{ jsonpath: "$[*].url" }],
-        avatar: [{ jsonpath: "$[*].avatar" }],
-      },
+
   }
