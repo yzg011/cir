@@ -15,7 +15,7 @@
 #   - stellar：stellar主题
 # 支持配置多个友链页面并指定不同主题策略，每个用{}分隔，它们会被同时爬取，数据保存在一起。
 LINK: [
-     { link: "https://lk.z2m.store/friends.json", theme: "json_api" },  # 团子和蛋糕的博客友链页
+     { link: "https://tblog.z2m.store/friends/", theme: "tblog_custom" },  # 团子和蛋糕的博客友链页
 #     { link: "https://noionion.top/link/", theme: "butterfly" }, # 友链页地址2
     # { link: "https://immmmm.com/about/", theme: "common1" }, # 友链页地址3
 #     ...
