@@ -4,7 +4,7 @@
     "active_num": 16,
     "error_num": 10,
     "article_num": 255,
-    "last_updated_time": "2026-08-15 16:30:26"
+    "last_updated_time": "2026-08-15 18:23:54"
   },
   "article_data": [
     {
@@ -36,6 +36,51 @@
     },
     {
       "floor": 4,
+      "title": "butterfly安装rss插件",
+      "created": "2026-08-15",
+      "updated": "2026-08-15",
+      "link": "https://tblog.z2m.store/posts/butterfly%E5%AE%89%E8%A3%85rss%E6%8F%92%E4%BB%B6/",
+      "author": "小鱼",
+      "avatar": "https://tblog.z2m.store/images/logo.png"
+    },
+    {
+      "floor": 5,
+      "title": "Hexo-butterfly主题增加友链界面",
+      "created": "2026-08-15",
+      "updated": "2026-08-15",
+      "link": "https://tblog.z2m.store/posts/hexo-butterfly%E4%B8%BB%E9%A2%98%E5%A2%9E%E5%8A%A0%E5%8F%8B%E9%93%BE%E7%95%8C%E9%9D%A2/",
+      "author": "小鱼",
+      "avatar": "https://tblog.z2m.store/images/logo.png"
+    },
+    {
+      "floor": 6,
+      "title": "hexo 框架更新",
+      "created": "2026-08-15",
+      "updated": "2026-08-15",
+      "link": "https://tblog.z2m.store/posts/hexo-%E6%A1%86%E6%9E%B6%E6%9B%B4%E6%96%B0/",
+      "author": "小鱼",
+      "avatar": "https://tblog.z2m.store/images/logo.png"
+    },
+    {
+      "floor": 7,
+      "title": "印度STQC 流程和批准要求",
+      "created": "2026-08-15",
+      "updated": "2026-08-15",
+      "link": "https://tblog.z2m.store/posts/%E5%8D%B0%E5%BA%A6stqc-%E6%B5%81%E7%A8%8B%E5%92%8C%E6%89%B9%E5%87%86%E8%A6%81%E6%B1%82/",
+      "author": "小鱼",
+      "avatar": "https://tblog.z2m.store/images/logo.png"
+    },
+    {
+      "floor": 8,
+      "title": "文章发布指令",
+      "created": "2026-08-15",
+      "updated": "2026-08-15",
+      "link": "https://tblog.z2m.store/posts/%E5%8F%91%E5%B8%83%E6%8C%87%E4%BB%A4/",
+      "author": "小鱼",
+      "avatar": "https://tblog.z2m.store/images/logo.png"
+    },
+    {
+      "floor": 9,
       "title": "将服务器交给AI：WorkBuddy 接入宝塔面板 MCP 实战指南",
       "created": "2026-08-14",
       "updated": "2026-08-14",
@@ -44,7 +89,7 @@
       "avatar": "https://www.nannax.top/upload/IMG_20260412_164454.ico"
     },
     {
-      "floor": 5,
+      "floor": 10,
       "title": "Typeless，一款可以让你只动嘴、不动手的输入法，Typeless 初体验",
       "created": "2026-08-13",
       "updated": "2026-08-14",
@@ -53,7 +98,7 @@
       "avatar": "https://github.com/xfcnl/xfcnl.github.io/blob/main/image/MEITU_20260128_220225596.jpg?raw=true"
     },
     {
-      "floor": 6,
+      "floor": 11,
       "title": "我鬼脑发力是如何找到 BA BWiki 是如何找到如何修改首页内容的",
       "created": "2026-08-08",
       "updated": "2026-08-14",
@@ -62,7 +107,7 @@
       "avatar": "https://github.com/xfcnl/xfcnl.github.io/blob/main/image/MEITU_20260128_220225596.jpg?raw=true"
     },
     {
-      "floor": 7,
+      "floor": 12,
       "title": "博客大更新",
       "created": "2026-08-06",
       "updated": "2026-08-14",
@@ -71,7 +116,7 @@
       "avatar": "https://github.com/xfcnl/xfcnl.github.io/blob/main/image/MEITU_20260128_220225596.jpg?raw=true"
     },
     {
-      "floor": 8,
+      "floor": 13,
       "title": "啊？",
       "created": "2026-08-01",
       "updated": "2026-08-14",
@@ -80,7 +125,7 @@
       "avatar": "https://github.com/xfcnl/xfcnl.github.io/blob/main/image/MEITU_20260128_220225596.jpg?raw=true"
     },
     {
-      "floor": 9,
+      "floor": 14,
       "title": "EdgeOne-Pages-ImgBed，一个网页图床应用",
       "created": "2026-08-01",
       "updated": "2026-08-14",
@@ -89,7 +134,7 @@
       "avatar": "https://github.com/xfcnl/xfcnl.github.io/blob/main/image/MEITU_20260128_220225596.jpg?raw=true"
     },
     {
-      "floor": 10,
+      "floor": 15,
       "title": "自定义侧边栏组件操作步骤",
       "created": "2026-08-14",
       "updated": "2026-08-14",
@@ -98,7 +143,7 @@
       "avatar": "https://blog.z2m.store/_astro/1.r-h2JhmR_1z4LVn.webp"
     },
     {
-      "floor": 11,
+      "floor": 16,
       "title": "让cf worker代理你的GitHub静态资源",
       "created": "2026-07-28",
       "updated": "2026-08-13",
@@ -107,7 +152,7 @@
       "avatar": "https://github.com/xfcnl/xfcnl.github.io/blob/main/image/MEITU_20260128_220225596.jpg?raw=true"
     },
     {
-      "floor": 12,
+      "floor": 17,
       "title": "CloudFlare-ImgBed系列-随机图API使用指南",
       "created": "2026-08-13",
       "updated": "2026-08-13",
@@ -116,7 +161,7 @@
       "avatar": "https://re.tsh520.cn/zl/tx.webp"
     },
     {
-      "floor": 13,
+      "floor": 18,
       "title": "AstrBot 使用踩坑记录",
       "created": "2026-08-12",
       "updated": "2026-08-12",
@@ -125,7 +170,7 @@
       "avatar": "https://re.tsh520.cn/zl/tx.webp"
     },
     {
-      "floor": 14,
+      "floor": 19,
       "title": "ceshiwenzhang",
       "created": "2026-08-11",
       "updated": "2026-08-11",
@@ -134,7 +179,7 @@
       "avatar": "https://blog.z2m.store/_astro/1.r-h2JhmR_1z4LVn.webp"
     },
     {
-      "floor": 15,
+      "floor": 20,
       "title": "Firefly 博客部署教程",
       "created": "2026-08-11",
       "updated": "2026-08-11",
@@ -143,7 +188,7 @@
       "avatar": "https://blog.z2m.store/_astro/1.r-h2JhmR_1z4LVn.webp"
     },
     {
-      "floor": 16,
+      "floor": 21,
       "title": "butterfly安装rss插件",
       "created": "2026-08-11",
       "updated": "2026-08-11",
@@ -152,7 +197,7 @@
       "avatar": "https://blog.z2m.store/_astro/1.r-h2JhmR_1z4LVn.webp"
     },
     {
-      "floor": 17,
+      "floor": 22,
       "title": "VitePress 集成 Giscus 评论插件",
       "created": "2026-08-11",
       "updated": "2026-08-11",
@@ -161,7 +206,7 @@
       "avatar": "https://blog.z2m.store/_astro/1.r-h2JhmR_1z4LVn.webp"
     },
     {
-      "floor": 18,
+      "floor": 23,
       "title": "把博客后台搬进微信：随手一条消息就能发动态、笔记、足迹",
       "created": "2026-08-11",
       "updated": "2026-08-11",
@@ -170,7 +215,7 @@
       "avatar": "https://re.tsh520.cn/zl/tx.webp"
     },
     {
-      "floor": 19,
+      "floor": 24,
       "title": "手把手教你用 EdgeOne 加速 Vercel 部署的项目（源站域名分离法）",
       "created": "2026-08-10",
       "updated": "2026-08-10",
@@ -179,58 +224,13 @@
       "avatar": "https://re.tsh520.cn/zl/tx.webp"
     },
     {
-      "floor": 20,
+      "floor": 25,
       "title": "DeepSeek 没有图片识别功能？自己给它加一个",
       "created": "2026-08-10",
       "updated": "2026-08-10",
       "link": "https://blog.tsh520.cn/posts/ai%E4%BD%BF%E7%94%A8/deepseek%E5%8A%A0%E5%9B%BE%E7%89%87%E8%AF%86%E5%88%AB/",
       "author": "团子和蛋糕",
       "avatar": "https://re.tsh520.cn/zl/tx.webp"
-    },
-    {
-      "floor": 21,
-      "title": "butterfly安装rss插件",
-      "created": "2026-08-10",
-      "updated": "2026-08-10",
-      "link": "https://tblog.z2m.store/posts/butterfly%E5%AE%89%E8%A3%85rss%E6%8F%92%E4%BB%B6/",
-      "author": "小鱼",
-      "avatar": "https://tblog.z2m.store/images/logo.png"
-    },
-    {
-      "floor": 22,
-      "title": "Hexo-butterfly主题增加友链界面",
-      "created": "2026-08-10",
-      "updated": "2026-08-10",
-      "link": "https://tblog.z2m.store/posts/hexo-butterfly%E4%B8%BB%E9%A2%98%E5%A2%9E%E5%8A%A0%E5%8F%8B%E9%93%BE%E7%95%8C%E9%9D%A2/",
-      "author": "小鱼",
-      "avatar": "https://tblog.z2m.store/images/logo.png"
-    },
-    {
-      "floor": 23,
-      "title": "hexo 框架更新",
-      "created": "2026-08-10",
-      "updated": "2026-08-10",
-      "link": "https://tblog.z2m.store/posts/hexo-%E6%A1%86%E6%9E%B6%E6%9B%B4%E6%96%B0/",
-      "author": "小鱼",
-      "avatar": "https://tblog.z2m.store/images/logo.png"
-    },
-    {
-      "floor": 24,
-      "title": "印度STQC 流程和批准要求",
-      "created": "2026-08-10",
-      "updated": "2026-08-10",
-      "link": "https://tblog.z2m.store/posts/%E5%8D%B0%E5%BA%A6stqc-%E6%B5%81%E7%A8%8B%E5%92%8C%E6%89%B9%E5%87%86%E8%A6%81%E6%B1%82/",
-      "author": "小鱼",
-      "avatar": "https://tblog.z2m.store/images/logo.png"
-    },
-    {
-      "floor": 25,
-      "title": "文章发布指令",
-      "created": "2026-08-10",
-      "updated": "2026-08-10",
-      "link": "https://tblog.z2m.store/posts/%E5%8F%91%E5%B8%83%E6%8C%87%E4%BB%A4/",
-      "author": "小鱼",
-      "avatar": "https://tblog.z2m.store/images/logo.png"
     },
     {
       "floor": 26,
