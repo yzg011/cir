@@ -1,10 +1,10 @@
 {
   "statistical_data": {
     "friends_num": 10,
-    "active_num": 7,
-    "error_num": 3,
+    "active_num": 8,
+    "error_num": 2,
     "article_num": 260,
-    "last_updated_time": "2026-08-17 09:18:04"
+    "last_updated_time": "2026-08-17 11:01:31"
   },
   "article_data": [
     {
@@ -18,42 +18,6 @@
     },
     {
       "floor": 2,
-      "title": "48个音标",
-      "created": "2026-08-15",
-      "updated": "2026-08-15",
-      "link": "https://blog.tsh520.cn/posts/english%E7%AC%94%E8%AE%B0%E6%9C%AC/%E6%97%A5%E5%B8%B8%E7%BC%96%E7%A8%8B%E8%8B%B1%E8%AF%AD%E5%8D%95%E8%AF%8D%E7%A7%AF%E7%B4%AF/",
-      "author": "团子和蛋糕",
-      "avatar": "https://re.tsh520.cn/zl/tx.webp"
-    },
-    {
-      "floor": 3,
-      "title": "Python3学习笔记",
-      "created": "2026-08-15",
-      "updated": "2026-08-15",
-      "link": "https://blog.tsh520.cn/posts/python/python3%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/",
-      "author": "团子和蛋糕",
-      "avatar": "https://re.tsh520.cn/zl/tx.webp"
-    },
-    {
-      "floor": 4,
-      "title": "Git的命令学习记录",
-      "created": "2026-08-15",
-      "updated": "2026-08-15",
-      "link": "https://blog.tsh520.cn/posts/%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7/git%E7%9A%84%E5%91%BD%E4%BB%A4%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95/",
-      "author": "团子和蛋糕",
-      "avatar": "https://re.tsh520.cn/zl/tx.webp"
-    },
-    {
-      "floor": 5,
-      "title": "微信阅读插件主题模板",
-      "created": "2026-08-15",
-      "updated": "2026-08-15",
-      "link": "https://blog.tsh520.cn/posts/%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7/%E5%BE%AE%E4%BF%A1%E9%98%85%E8%AF%BB%E6%8F%92%E4%BB%B6%E4%B8%BB%E9%A2%98%E6%A8%A1%E6%9D%BF/",
-      "author": "团子和蛋糕",
-      "avatar": "https://re.tsh520.cn/zl/tx.webp"
-    },
-    {
-      "floor": 6,
       "title": "butterfly安装rss插件",
       "created": "2026-08-15",
       "updated": "2026-08-15",
@@ -62,7 +26,7 @@
       "avatar": "https://tblog.z2m.store/images/logo.png"
     },
     {
-      "floor": 7,
+      "floor": 3,
       "title": "Hexo-butterfly主题增加友链界面",
       "created": "2026-08-15",
       "updated": "2026-08-15",
@@ -71,7 +35,7 @@
       "avatar": "https://tblog.z2m.store/images/logo.png"
     },
     {
-      "floor": 8,
+      "floor": 4,
       "title": "hexo 框架更新",
       "created": "2026-08-15",
       "updated": "2026-08-15",
@@ -80,7 +44,7 @@
       "avatar": "https://tblog.z2m.store/images/logo.png"
     },
     {
-      "floor": 9,
+      "floor": 5,
       "title": "印度STQC 流程和批准要求",
       "created": "2026-08-15",
       "updated": "2026-08-15",
@@ -89,7 +53,7 @@
       "avatar": "https://tblog.z2m.store/images/logo.png"
     },
     {
-      "floor": 10,
+      "floor": 6,
       "title": "文章发布指令",
       "created": "2026-08-15",
       "updated": "2026-08-15",
@@ -98,7 +62,7 @@
       "avatar": "https://tblog.z2m.store/images/logo.png"
     },
     {
-      "floor": 11,
+      "floor": 7,
       "title": "How to Test Your SD Card?如何测试你的SD卡？",
       "created": "2026-08-15",
       "updated": "2026-08-15",
@@ -107,7 +71,7 @@
       "avatar": "https://blog.z2m.store/_astro/1.r-h2JhmR_1z4LVn.webp"
     },
     {
-      "floor": 12,
+      "floor": 8,
       "title": "博客增加时段问候实时时钟组件",
       "created": "2026-08-15",
       "updated": "2026-08-15",
@@ -116,13 +80,49 @@
       "avatar": "https://blog.z2m.store/_astro/1.r-h2JhmR_1z4LVn.webp"
     },
     {
-      "floor": 13,
+      "floor": 9,
       "title": "给你的静态博客网站增加管理后台",
       "created": "2026-08-15",
       "updated": "2026-08-15",
       "link": "https://blog.z2m.store/posts/%E6%8A%80%E6%9C%AF/%E7%BB%99%E4%BD%A0%E7%9A%84%E9%9D%99%E6%80%81%E5%8D%9A%E5%AE%A2%E7%BD%91%E7%AB%99%E5%A2%9E%E5%8A%A0%E7%AE%A1%E7%90%86%E5%90%8E%E5%8F%B0/",
       "author": "小鱼钓猫🐱",
       "avatar": "https://blog.z2m.store/_astro/1.r-h2JhmR_1z4LVn.webp"
+    },
+    {
+      "floor": 10,
+      "title": "48个音标",
+      "created": "2026-08-15",
+      "updated": "2026-08-15",
+      "link": "https://blog.tsh520.cn/posts/english%E7%AC%94%E8%AE%B0%E6%9C%AC/%E6%97%A5%E5%B8%B8%E7%BC%96%E7%A8%8B%E8%8B%B1%E8%AF%AD%E5%8D%95%E8%AF%8D%E7%A7%AF%E7%B4%AF/",
+      "author": "团子和蛋糕",
+      "avatar": "https://re.tsh520.cn/zl/tx.webp"
+    },
+    {
+      "floor": 11,
+      "title": "Python3学习笔记",
+      "created": "2026-08-15",
+      "updated": "2026-08-15",
+      "link": "https://blog.tsh520.cn/posts/python/python3%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/",
+      "author": "团子和蛋糕",
+      "avatar": "https://re.tsh520.cn/zl/tx.webp"
+    },
+    {
+      "floor": 12,
+      "title": "Git的命令学习记录",
+      "created": "2026-08-15",
+      "updated": "2026-08-15",
+      "link": "https://blog.tsh520.cn/posts/%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7/git%E7%9A%84%E5%91%BD%E4%BB%A4%E5%AD%A6%E4%B9%A0%E8%AE%B0%E5%BD%95/",
+      "author": "团子和蛋糕",
+      "avatar": "https://re.tsh520.cn/zl/tx.webp"
+    },
+    {
+      "floor": 13,
+      "title": "微信阅读插件主题模板",
+      "created": "2026-08-15",
+      "updated": "2026-08-15",
+      "link": "https://blog.tsh520.cn/posts/%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7/%E5%BE%AE%E4%BF%A1%E9%98%85%E8%AF%BB%E6%8F%92%E4%BB%B6%E4%B8%BB%E9%A2%98%E6%A8%A1%E6%9D%BF/",
+      "author": "团子和蛋糕",
+      "avatar": "https://re.tsh520.cn/zl/tx.webp"
     },
     {
       "floor": 14,
