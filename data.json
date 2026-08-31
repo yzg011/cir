@@ -3,8 +3,8 @@
     "friends_num": 10,
     "active_num": 8,
     "error_num": 2,
-    "article_num": 253,
-    "last_updated_time": "2026-08-31 04:41:13"
+    "article_num": 252,
+    "last_updated_time": "2026-08-31 08:15:03"
   },
   "article_data": [
     {
@@ -2274,15 +2274,6 @@
       "link": "https://blog.minecraftglz.top/archives/Fran%C3%A7ais_policier_le%C3%A7on%E2%85%A0",
       "author": "Landigo's Garden",
       "avatar": "https://blog.minecraftglz.top/upload/site-icon-150x150.png?width=1600"
-    },
-    {
-      "floor": 253,
-      "title": "本站 ICP 备案通过啦！",
-      "created": "2026-07-01",
-      "updated": "2026-07-01",
-      "link": "https://www.nannax.top/archives/LHXjytpb",
-      "author": "楠枝小笺",
-      "avatar": "https://www.nannax.top/upload/avatar.jpg"
     }
   ]
 }
