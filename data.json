@@ -3,8 +3,8 @@
     "friends_num": 10,
     "active_num": 8,
     "error_num": 2,
-    "article_num": 254,
-    "last_updated_time": "2026-09-07 07:33:53"
+    "article_num": 252,
+    "last_updated_time": "2026-09-07 11:19:33"
   },
   "article_data": [
     {
@@ -2274,24 +2274,6 @@
       "link": "https://www.nannax.top/archives/urJpnQDF",
       "author": "楠枝小笺",
       "avatar": "https://www.nannax.top/upload/IMG_20260412_164454.ico"
-    },
-    {
-      "floor": 253,
-      "title": "从 Keyword RAG 到 LangChain：迷你博客 RAG 学习记录",
-      "created": "2026-07-08",
-      "updated": "2026-07-08",
-      "link": "https://blog.june-pj.cn/posts/bc30cf0b/",
-      "author": "June's Blog",
-      "avatar": "https://gitlab.com/June_PJ/PicGo-PJ/raw/main/img/avatar.webp"
-    },
-    {
-      "floor": 254,
-      "title": "\"达妮娅\"自动生图发文",
-      "created": "2026-07-08",
-      "updated": "2026-07-08",
-      "link": "https://blog.kanako.top/blogs/denia-auto-send",
-      "author": "Kanako的小窝",
-      "avatar": "https://blog.kanako.top/icon.png"
     }
   ]
 }
