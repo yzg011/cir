@@ -1,10 +1,10 @@
 {
   "statistical_data": {
     "friends_num": 10,
-    "active_num": 6,
-    "error_num": 4,
-    "article_num": 160,
-    "last_updated_time": "2026-09-29 07:12:02"
+    "active_num": 5,
+    "error_num": 5,
+    "article_num": 157,
+    "last_updated_time": "2026-09-29 12:40:16"
   },
   "article_data": [
     {
@@ -1419,33 +1419,6 @@
       "link": "https://vlog.z2m.store/blog/cloudflare-pages0/",
       "author": "Saimen",
       "avatar": "https://blog.z2m.store/_astro/1.r-h2JhmR_1z4LVn.webp"
-    },
-    {
-      "floor": 158,
-      "title": "让cf worker代理你的GitHub静态资源",
-      "created": "2026-07-30",
-      "updated": "2026-07-30",
-      "link": "https://xfcnl.github.io/tech/2026-07-30-%E8%AE%A9cf%20worker%E4%BB%A3%E7%90%86%E4%BD%A0%E7%9A%84cloudflare%E9%9D%99%E6%80%81%E8%B5%84%E6%BA%90/",
-      "author": "xf_blog",
-      "avatar": "https://github.com/xfcnl/xfcnl.github.io/blob/main/image/MEITU_20260128_220225596.jpg?raw=true"
-    },
-    {
-      "floor": 159,
-      "title": "Arch Linux安装以及使用指南",
-      "created": "2026-07-30",
-      "updated": "2026-07-30",
-      "link": "https://www.jerry-nis.top/posts/arch/arch-1/",
-      "author": "JerryLife",
-      "avatar": "https://free.picui.cn/free/2026/07/16/6a58eb63ecbd1.png"
-    },
-    {
-      "floor": 160,
-      "title": "Arch Linux安装以及使用指南",
-      "created": "2026-07-30",
-      "updated": "2026-07-30",
-      "link": "https://www.jerrynis.com/posts/arch/arch-1/",
-      "author": "JerryLife",
-      "avatar": "https://free.picui.cn/free/2026/07/16/6a58eb63ecbd1.png"
     }
   ]
 }
