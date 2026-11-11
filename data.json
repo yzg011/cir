@@ -3,8 +3,8 @@
     "friends_num": 10,
     "active_num": 7,
     "error_num": 3,
-    "article_num": 49,
-    "last_updated_time": "2026-11-11 06:55:46"
+    "article_num": 48,
+    "last_updated_time": "2026-11-11 13:00:47"
   },
   "article_data": [
     {
@@ -438,15 +438,6 @@
       "link": "https://blog.tsh520.cn/posts/%E7%BC%96%E7%A8%8B%E5%AD%A6%E4%B9%A0/pycharm/pycharm%E5%BF%AB%E6%8D%B7%E9%94%AE/",
       "author": "团子和蛋糕",
       "avatar": "https://re.tsh520.cn/zl/tx.webp"
-    },
-    {
-      "floor": 49,
-      "title": "从零开始搭建你的第一个AI聊天机器人：AstrBot部署教程",
-      "created": "2026-09-11",
-      "updated": "2026-09-11",
-      "link": "https://blog.olinl.com/posts/astrbot-deployment/",
-      "author": "顾拾柒",
-      "avatar": "https://blog.olinl.com/_astro/logo.Dcz7kleO_Z1Bu2B.webp"
     }
   ]
 }
