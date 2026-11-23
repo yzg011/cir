@@ -3,8 +3,8 @@
     "friends_num": 10,
     "active_num": 6,
     "error_num": 4,
-    "article_num": 24,
-    "last_updated_time": "2026-11-23 05:35:39"
+    "article_num": 23,
+    "last_updated_time": "2026-11-23 10:20:16"
   },
   "article_data": [
     {
@@ -213,15 +213,6 @@
       "link": "https://blog.z2m.store/posts/dw/",
       "author": "小鱼钓猫🐱",
       "avatar": "https://blog.z2m.store/_astro/1.r-h2JhmR_1z4LVn.webp"
-    },
-    {
-      "floor": 24,
-      "title": "用 AI 批量生成高密度拼贴风博客封面：一套可完整复现的提示词工作流",
-      "created": "2026-09-23",
-      "updated": "2026-09-23",
-      "link": "https://blog.tsh520.cn/posts/ai%E4%BD%BF%E7%94%A8/%E7%94%A8ai%E6%89%B9%E9%87%8F%E7%94%9F%E6%88%90%E9%AB%98%E5%AF%86%E5%BA%A6%E6%8B%BC%E8%B4%B4%E9%A3%8E%E5%8D%9A%E5%AE%A2%E5%B0%81%E9%9D%A2/",
-      "author": "团子和蛋糕",
-      "avatar": "https://re.tsh520.cn/zl/tx.webp"
     }
   ]
 }
